@@ -5,7 +5,6 @@ import { HeroParallaxDemo } from "./hero-parallax";
 import { GoogleGeminiEffectDemo } from "./gemini-effect";
 import { VortexDemo } from "./vortex";
 import { BackgroundLinesDemo } from "./background-line";
-import { BackgroundBeamsWithCollisionDemo } from "./background-beams";
 import Footer from "./footer";
 
 export default function CardSpotlightDemo() {
