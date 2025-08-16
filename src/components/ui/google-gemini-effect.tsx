@@ -5,7 +5,7 @@ import React from "react";
 // import { motion } from "motion/react";
 import { PointerHighlight } from "./pointer-highlight";
 
-const transition = {
+const transition: any = {
   duration: 0,
   ease: "linear",
 };
