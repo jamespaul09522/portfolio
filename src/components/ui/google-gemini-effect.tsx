@@ -26,11 +26,11 @@ export const GoogleGeminiEffect = ({
       <p className="text-lg md:text-7xl font-normal pb-4 text-center bg-clip-text bg-gradient-to-b from-neutral-100 to-neutral-300 text-black-800 text-2xl">
         {title || `Want to Hire Me?`}
       </p>
-      <p className="text-xs md:text-xl font-normal text-center text-neutral-400 mt-4 max-w-lg mx-auto">
+      <div className="text-xs md:text-xl font-normal text-center text-neutral-400 mt-4 max-w-lg mx-auto">
       
           I like to Work in a Startup and <PointerHighlight> <span>Fast-Paced Envirnoment</span>
          </PointerHighlight>
-      </p>
+      </div>
             
       <div className="w-full h-[890px] -top-60 md:-top-40  flex items-center justify-center bg-red-transparent absolute ">
         <button className="font-bold bg-black rounded-full md:px-4 md:py-2 px-2 py-1 md:mt-24 mt-8 z-30 md:text-base text-white text-xs  w-fit mx-auto ">
